@@ -1,0 +1,114 @@
+.container {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+  width: 1100px;
+}
+.wrap{
+  background-image: url(/img/watches.jpg);
+  background-position: right center;
+  background-repeat: no-repeat;
+  background-size:contain;
+}
+.header{
+   margin-top: 20px;
+}
+
+.hero {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  width: 400px;
+  margin-left: 20px;
+  
+}
+.hero__section {
+  border-left: 3px solid ;
+  opacity: 0.3;
+}
+.hero__text {
+  margin-top: 50px;
+  margin-left: 30px;
+  opacity: 0.9;
+}
+.hero__btn {
+  border: none;
+  background-color: rgb(244, 80, 80);
+  color: white;
+  margin-top: 40px;
+  padding: 10px 20px;
+}
+.main{
+   width: 1060px;
+   margin-left: 120px;
+   margin-top: 300px;
+}
+.runout{
+   width: 350px;
+}
+.runout__title{
+  margin-bottom: 30px;
+  text-transform: uppercase;
+}
+.nike{
+  margin-top: 100px;
+ gap: 150px;
+}
+.nikeband{
+  width: 450px;
+  margin-left: 100px;
+  margin-top: 170px;
+}
+.nikesection{
+  border-left: 3px solid ;
+  opacity: 0.3;
+}
+.nikeband__text {
+  margin-top: 50px;
+  margin-left: 30px;
+  opacity: 0.9;
+}
+.nikeband__btn {
+  border: none;
+  background-color: rgb(244, 80, 80);
+  color: white;
+  margin-top: 40px;
+  padding: 10px 20px;
+  opacity: 0.8;
+}
+.footer{
+  background-image: url(/img/runners.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+}
+.footer__section{
+  width: 450px;
+  margin-top: 170px;
+  margin-left: 800px;
+  margin-top: 200px;
+}
+.lastsection{
+  border-left: 3px solid ;
+  border-color: white;
+}
+.lastsection__title{
+  margin-top: 100px;
+  color: white;
+}
+.lastsection__text {
+  margin-top: 50px;
+  margin-left: 30px;
+color: white;
+}
+.lastsection__btn {
+  border: none;
+  background-color: rgb(244, 80, 80);
+  color: white;
+  margin-top: 40px;
+  padding: 10px 20px;
+  opacity: 0.8;
+}
